@@ -1,17 +1,44 @@
 aid: life-time-group
-url: https://raw.githubusercontent.com/api-evangelist/life-time-group/refs/heads/main/apis.yml
 name: Life Time Group Holdings
-type: Index
+description: >-
+  Life Time Group Holdings is an American health and wellness company operating
+  large-format athletic resort destinations across the United States and
+  Canada. The company offers fitness facilities, personal training, group
+  classes, aquatics, indoor and outdoor sports, spa services, and healthy
+  living programs in premium resort-style facilities, plus the Life Time app
+  for members. Life Time does not currently publish a public developer API or
+  developer portal.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Athletic Clubs
   - Fitness
-  - Wellness
   - Health Clubs
-description: 'A health and wellness company operating large-format athletic resort destinations across the United States and Canada. Offers fitness, personal training, group classes, aquatics, sports, spa, and healthy living programs in premium resort-style facilities.'
+  - Hospitality
+  - Wellness
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/life-time-group/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.lifetime.life/
+  - type: AboutUs
+    url: https://www.lifetime.life/about-life-time.html
+  - type: Locations
+    url: https://www.lifetime.life/clubs.html
+  - type: Membership
+    url: https://www.lifetime.life/memberships.html
+  - type: Classes
+    url: https://www.lifetime.life/classes.html
+  - type: InvestorRelations
+    url: https://investors.lifetime.life/
+  - type: News
+    url: https://www.lifetime.life/life-time-editorial.html
+  - type: Careers
+    url: https://www.lifetime.life/careers.html
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
