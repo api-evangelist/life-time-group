@@ -1,0 +1,14 @@
+{
+  "repo": "life-time-group",
+  "feeds": [
+    {
+      "source": "https://news.lifetime.life/news-releases?pagetemplate=rss",
+      "feed_url": "https://news.lifetime.life/news-releases?pagetemplate=rss",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 7
+}
