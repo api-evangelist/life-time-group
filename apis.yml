@@ -23,6 +23,8 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/life-time-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lifetimeinc
   - type: Website
@@ -41,6 +43,8 @@ common:
     url: https://www.lifetime.life/life-time-editorial.html
   - type: Careers
     url: https://www.lifetime.life/careers.html
+  - url: https://news.lifetime.life/news-releases?pagetemplate=rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
