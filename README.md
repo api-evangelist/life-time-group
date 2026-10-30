@@ -1,4 +1,4 @@
-# Life Time Group Holdings (life-time-group)
+# Life Time Group Holdings
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,26 +66,78 @@
 
 Life Time Group Holdings is an American health and wellness company operating large-format athletic resort destinations across the United States and Canada. The company offers fitness facilities, personal training, group classes, aquatics, indoor and outdoor sports, spa services, and healthy living programs in premium resort-style facilities, plus the Life Time app for members. Life Time does not currently publish a public developer API or developer portal.
 
-**URL:** [https://www.lifetime.life/](https://www.lifetime.life/)
+**Areas:** Athletic Clubs · Fitness · Health Clubs · Hospitality · Wellness
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=life-time-group-api-evangelist&utm_content=repo)
+## Life Time Group Holdings on APIs.io
 
-## Tags:
+Everything profiled for Life Time Group Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/life-time-group/](https://apis.io/providers/life-time-group/)** — or go straight to one of the APIs or properties below.
 
- - Athletic Clubs, Fitness, Health Clubs, Hospitality, Wellness
+### Published properties
 
-## Links
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Website: https://www.lifetime.life/
-- About: https://www.lifetime.life/about-life-time.html
-- Clubs: https://www.lifetime.life/clubs.html
-- Memberships: https://www.lifetime.life/memberships.html
-- Classes: https://www.lifetime.life/classes.html
-- Investor Relations: https://investors.lifetime.life/
-- Editorial: https://www.lifetime.life/life-time-editorial.html
-- Careers: https://www.lifetime.life/careers.html
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-16
+- [Life Time Group Domain Security](https://apis.io/security/life-time-group/life-time-group-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lifetime.life/)
+- [Blog](https://news.lifetime.life/news-releases?pagetemplate=rss)
+
+## API Evangelist rating
+
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/life-time-group/](https://apis.io/providers/life-time-group/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Life Time Group Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/life-time-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
